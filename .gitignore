@@ -1,0 +1,4 @@
+.venv/
+*~
+__pycache__/
+antennasim.egg-info/
